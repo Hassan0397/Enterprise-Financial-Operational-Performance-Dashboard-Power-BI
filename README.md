@@ -84,28 +84,23 @@ Built a **Star Schema**:
 
 ### 🟥 5. Dashboard Pages
 
-**Executive Summary Page:**
+ [Executive Summary Page](https://github.com/Hassan0397/Enterprise-Financial-Operational-Performance-Dashboard-Power-BI/blob/main/Executive%20Summary.png)
 
 - KPI Cards: Revenue, Gross Profit, Gross Margin %, On-Time Delivery %  
 - Trend Analysis: Revenue and KPI comparisons over time  
 
-**Finance Deep Dive Page:**
+ [Finance Deep Dive Page](https://github.com/Hassan0397/Enterprise-Financial-Operational-Performance-Dashboard-Power-BI/blob/main/Finance-Deep%20Dive.png)
 
 - Revenue & Gross Profit by Product Category  
 - Profitability trends over time  
 - Region-wise financial performance  
 
-**Operations Deep Dive Page:**
+ [Operations Deep Dive Page](https://github.com/Hassan0397/Enterprise-Financial-Operational-Performance-Dashboard-Power-BI/blob/main/Supply%20details.png)
 
 - On-Time Delivery % by region & product  
 - Inventory Stock-out Days  
-- Supplier On-Time Delivery %  
-
-**Customer Insights Page:**
-
-- Top Customers by Revenue & Profit  
-- Customer Retention & Churn metrics  
-- Sales trends by customer segment  
+- Supplier On-Time Delivery %
+  
 
 **Interactive Filters & Slicers:**
 
